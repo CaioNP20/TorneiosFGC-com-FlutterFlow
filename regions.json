@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Mundo Inteiro",
+    "value": "worldwide",
+    "countries": []
+  },
+  {
+    "label": "América do Sul",
+    "value": "south-america",
+    "countries": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela",
+      "French Guiana"
+    ]
+  }
+]
